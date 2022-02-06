@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Name Module",
-    'summary': """summary""",
-    'description': """description""",
+    'name': "Odoo Bot Adapter",
+    'summary': """Generic Bot Adapter""",
+    'description': """Generic Bot Adapter""",
     'author': "Paimon",
-    'category': 'Manga',
+    'category': 'other',
     'version': '0.1',
     'depends': ['base'],
     'data': [
