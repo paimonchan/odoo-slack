@@ -9,5 +9,6 @@
     'depends': ['base'],
     'data': [
         # 'security/ir.model.access.csv',
+        'ir_config_parameter_slack_token',
     ],
 }
